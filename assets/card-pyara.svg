@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="100" viewBox="0 0 430 100">
+<rect x="1" y="1" width="428" height="98" rx="8" fill="#0a0510" stroke="#3b0a63" stroke-width="2"><animate attributeName="stroke" values="#3b0a63;#a855f7;#3b0a63" dur="6s" begin="1.6s" repeatCount="indefinite"/></rect>
+<rect x="1" y="14" width="4" height="72" rx="2" fill="#a855f7"/>
+<text x="28" y="30" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="16" font-weight="bold" fill="#f2e6ff">pyara</text>
+<text x="28" y="54" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#b9a6d6">tiny YARA-style rule engine with Aho-Corasick</text><text x="28" y="70" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#b9a6d6">matching</text>
+<circle cx="410" cy="22" r="4" fill="#3572A5"/>
+<text x="400" y="26" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#b9a6d6" text-anchor="end">Python</text>
+</svg>

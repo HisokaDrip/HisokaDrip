@@ -1,25 +1,39 @@
+<p align="center"><img src="assets/banner.svg" width="100%" alt="HisokaDrip"/></p>
+<p align="center"><img src="assets/typing.svg" width="100%" alt=""/></p>
+
+<p align="center"><img src="assets/h-projects.svg" width="100%" alt="projects"/></p>
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="HisokaDrip"/>
+<a href="https://github.com/HisokaDrip/isoscope"><img src="assets/card-isoscope.svg" width="49%" alt="isoscope"/></a>
+<a href="https://github.com/HisokaDrip/tetrad"><img src="assets/card-tetrad.svg" width="49%" alt="tetrad"/></a>
+<a href="https://github.com/HisokaDrip/lsm-kv-store"><img src="assets/card-lsm-kv-store.svg" width="49%" alt="lsm-kv-store"/></a>
+<a href="https://github.com/HisokaDrip/pcapsleuth"><img src="assets/card-pcapsleuth.svg" width="49%" alt="pcapsleuth"/></a>
+<a href="https://github.com/HisokaDrip/lumen-rt"><img src="assets/card-lumen-rt.svg" width="49%" alt="lumen-rt"/></a>
+<a href="https://github.com/HisokaDrip/ndgrad"><img src="assets/card-ndgrad.svg" width="49%" alt="ndgrad"/></a>
+<a href="https://github.com/HisokaDrip/cart-tree-from-scratch"><img src="assets/card-cart-tree-from-scratch.svg" width="49%" alt="cart-tree-from-scratch"/></a>
+<a href="https://github.com/HisokaDrip/siftrank"><img src="assets/card-siftrank.svg" width="49%" alt="siftrank"/></a>
+<a href="https://github.com/HisokaDrip/password-strength-estimator"><img src="assets/card-password-strength-estimator.svg" width="49%" alt="password-strength-estimator"/></a>
+<a href="https://github.com/HisokaDrip/serpent-q"><img src="assets/card-serpent-q.svg" width="49%" alt="serpent-q"/></a>
+<a href="https://github.com/HisokaDrip/pyara"><img src="assets/card-pyara.svg" width="49%" alt="pyara"/></a>
 </p>
 
-## ▌ projects
+<p align="center"><img src="assets/h-stack.svg" width="100%" alt="stack"/></p>
+<p align="center"><img src="assets/skills.svg" width="100%" alt="skills"/></p>
 
-- [isoscope](https://github.com/HisokaDrip/isoscope) - isolation forest and streaming half-space trees in numpy, for batch and live anomaly detection
-- [tetrad](https://github.com/HisokaDrip/tetrad) - connect four engine with bitboards, alpha-beta search and an MCTS opponent
-- [lsm-kv-store](https://github.com/HisokaDrip/lsm-kv-store) - log-structured merge-tree key-value store with a WAL, sstables, bloom filters and compaction
-- [pcapsleuth](https://github.com/HisokaDrip/pcapsleuth) - offline pcap triage: hand-written pcap parser plus port scan, beacon, dns tunnel and exfil checks
-- [lumen-rt](https://github.com/HisokaDrip/lumen-rt) - vectorised ray tracer in numpy with shadows, reflections and json scenes
-- [ndgrad](https://github.com/HisokaDrip/ndgrad) - reverse-mode autograd in numpy, plus a tiny char-level GPT trained with it
-- [cart-tree-from-scratch](https://github.com/HisokaDrip/cart-tree-from-scratch) - CART decision tree classifier in numpy, compared against scikit-learn
-- [siftrank](https://github.com/HisokaDrip/siftrank) - local search over a folder of notes using BM25, LSA and rank fusion
-- [password-strength-estimator](https://github.com/HisokaDrip/password-strength-estimator) - zxcvbn-style password strength estimator in pure python
-- [serpent-q](https://github.com/HisokaDrip/serpent-q) - double DQN that learns snake, with hand-written backprop
-- [pyara](https://github.com/HisokaDrip/pyara) - tiny YARA-style rule engine with Aho-Corasick matching
+<p align="center"><img src="assets/h-stats.svg" width="100%" alt="numbers"/></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="stats"/></p>
 
-## ▌ other
+<p align="center"><img src="assets/h-snake.svg" width="100%" alt="contributions"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/HisokaDrip/HisokaDrip/output/github-snake-dark.svg" width="100%" alt="contribution snake"/></p>
 
-- [side-projects](https://github.com/HisokaDrip/side-projects) - small one-folder projects (go, rust)
-- [leetcode-solutions](https://github.com/HisokaDrip/leetcode-solutions) - my accepted leetcode solutions in python
-- older stuff: [TourismAi](https://github.com/HisokaDrip/TourismAi), [The-Bridge](https://github.com/HisokaDrip/The-Bridge), [Ai-Scavenger-Hunt](https://github.com/HisokaDrip/Ai-Scavenger-Hunt), [ML-Mini-Project](https://github.com/HisokaDrip/ML-Mini-Project), [Algorithm-Lab](https://github.com/HisokaDrip/Algorithm-Lab)
+<p align="center"><img src="assets/h-other.svg" width="100%" alt="other"/></p>
+<p align="center">
+<a href="https://github.com/HisokaDrip/side-projects"><img src="assets/card-side-projects.svg" width="49%" alt="side-projects"/></a>
+<a href="https://github.com/HisokaDrip/leetcode-solutions"><img src="assets/card-leetcode-solutions.svg" width="49%" alt="leetcode-solutions"/></a>
+<a href="https://github.com/HisokaDrip/TourismAi"><img src="assets/card-TourismAi.svg" width="49%" alt="TourismAi"/></a>
+<a href="https://github.com/HisokaDrip/The-Bridge"><img src="assets/card-The-Bridge.svg" width="49%" alt="The-Bridge"/></a>
+<a href="https://github.com/HisokaDrip/Ai-Scavenger-Hunt"><img src="assets/card-Ai-Scavenger-Hunt.svg" width="49%" alt="Ai-Scavenger-Hunt"/></a>
+<a href="https://github.com/HisokaDrip/ML-Mini-Project"><img src="assets/card-ML-Mini-Project.svg" width="49%" alt="ML-Mini-Project"/></a>
+<a href="https://github.com/HisokaDrip/Algorithm-Lab"><img src="assets/card-Algorithm-Lab.svg" width="49%" alt="Algorithm-Lab"/></a>
+</p>
 
-most of these are learning projects, not production code. if something's broken, open an issue.
+<p align="center"><img src="assets/footer.svg" width="100%" alt=""/></p>

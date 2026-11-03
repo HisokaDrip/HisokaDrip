@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56">
+<rect width="880" height="56" fill="#0a0510"/>
+<rect x="24" y="14" width="6" height="28" fill="#a855f7"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="44" y="36" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="22" font-weight="bold" fill="#f2e6ff" letter-spacing="4">STACK</text>
+<line x1="24" y1="52" x2="856" y2="52" stroke="#3b0a63" stroke-width="2"/>
+<line x1="24" y1="52" x2="140" y2="52" stroke="#a855f7" stroke-width="2"><animate attributeName="x2" values="60;300;60" dur="5s" repeatCount="indefinite"/></line>
+</svg>
