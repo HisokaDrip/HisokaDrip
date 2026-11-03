@@ -1,4 +1,12 @@
-# hey, i'm mazy
+<h1 align="center">▀▄▀▄ H I S O K A D R I P ▄▀▄▀</h1>
+
+<p align="center"><sub>♠ ♥ ♦ ♣ &nbsp; code · security · machine learning &nbsp; ♣ ♦ ♥ ♠</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0030,100:5b0a91&height=140&section=header" width="100%"/>
+</p>
+
+<div align="center">
 
 ```
    ╔════════════════════════════════════════════╗
@@ -18,15 +26,9 @@
    ╚════════════════════════════════════════════╝
 ```
 
-4th year B.Tech CSE (AI & ML) student at Pimpri Chinchwad University, Pune.
+</div>
 
-i'm mostly into machine learning, python, cybersecurity and AI in general. i like building
-things from scratch to see how they actually work, so a lot of what's here is small
-numpy / pure python versions of stuff that normally comes in a library.
-
-- cert: Cisco Networking Basics
-
-## recent projects
+## ▌ projects
 
 - [isoscope](https://github.com/HisokaDrip/isoscope) - isolation forest and streaming half-space trees in numpy, for batch and live anomaly detection
 - [tetrad](https://github.com/HisokaDrip/tetrad) - connect four engine with bitboards, alpha-beta search and an MCTS opponent
@@ -40,10 +42,14 @@ numpy / pure python versions of stuff that normally comes in a library.
 - [serpent-q](https://github.com/HisokaDrip/serpent-q) - double DQN that learns snake, with hand-written backprop
 - [pyara](https://github.com/HisokaDrip/pyara) - tiny YARA-style rule engine with Aho-Corasick matching
 
-## other stuff
+## ▌ other
 
 - [side-projects](https://github.com/HisokaDrip/side-projects) - small one-folder projects (go, rust)
 - [leetcode-solutions](https://github.com/HisokaDrip/leetcode-solutions) - my accepted leetcode solutions in python
 - older stuff: [TourismAi](https://github.com/HisokaDrip/TourismAi), [The-Bridge](https://github.com/HisokaDrip/The-Bridge), [Ai-Scavenger-Hunt](https://github.com/HisokaDrip/Ai-Scavenger-Hunt), [ML-Mini-Project](https://github.com/HisokaDrip/ML-Mini-Project), [Algorithm-Lab](https://github.com/HisokaDrip/Algorithm-Lab)
 
 most of these are learning projects, not production code. if something's broken, open an issue.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b0a91,50:1a0030,100:000000&height=100&section=footer" width="100%"/>
+</p>
