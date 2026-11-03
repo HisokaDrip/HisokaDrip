@@ -1,0 +1,18 @@
+name: rebuild typing banner
+on:
+  push:
+    paths: ['typing.txt', 'tools/make_typing.py']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/make_typing.py
+      - run: |
+          git config user.name "HisokaDrip"
+          git config user.email "77979741+HisokaDrip@users.noreply.github.com"
+          git add assets/typing.svg
+          git diff --cached --quiet || (git commit -m "update typing lines" && git push)
