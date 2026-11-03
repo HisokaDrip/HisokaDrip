@@ -1,23 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="76" viewBox="0 0 880 76">
 <defs><filter id="gl" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="sl" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.4"/></pattern></defs>
-<rect width="880" height="76" fill="#0b0b0f"/>
-<polygon points="24,10 840,10 856,26 856,66 40,66 24,50" fill="#111119" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.5"/>
-<polygon points="24,10 140,10 134,15 24,15" fill="#fcee0a"/>
-<rect x="24" y="22" width="3" height="32" fill="#fcee0a"/>
-<text x="44" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" font-weight="bold" fill="#ff003c" filter="url(#gl)">&gt;_</text>
-<rect x="780" y="61" width="60" height="3" fill="#00f0ff" opacity="0.7"/>
-<rect x="828" y="18" width="8" height="8" fill="#ff003c"><animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/></rect>
+<rect width="880" height="76" fill="#07080a"/>
+<polygon points="24,10 840,10 856,26 856,66 40,66 24,50" fill="#14171c" stroke="#2a2f38" stroke-width="1.5"/>
+<path d="M0,-11 L3,-11 L5,-18 L6.5,-9 C12,-8 16,-12 18,-17 C30,-14 40,-6 40,4 C36,-1 30,-1 27,3 C24,-2 18,-2 15,4 C11,0 4,4 0,14 C-4,4 -11,0 -15,4 C-18,-2 -24,-2 -27,3 C-30,-1 -36,-1 -40,4 C-40,-6 -30,-14 -18,-17 C-16,-12 -12,-8 -6.5,-9 L-5,-18 L-3,-11 Z" fill="#2a2f38" opacity="0.6" transform="translate(790 40) scale(0.9)"/>
+<polygon points="24,10 140,10 134,15 24,15" fill="#ffd400"/>
+<rect x="24" y="22" width="3" height="32" fill="#ffd400"/>
+<text x="44" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" font-weight="bold" fill="#ffd400" filter="url(#gl)">&gt;_</text>
+<rect x="780" y="61" width="60" height="3" fill="#ffd400" opacity="0.6"/>
+<rect x="828" y="18" width="8" height="8" fill="#d61f33"><animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/></rect>
 <clipPath id="c0"><rect x="92" y="0" height="76" width="0"><animate attributeName="width" values="0;0;647;647;0;0" keyTimes="0;0;0.0700;0.2200;0.2210;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#fcee0a" filter="url(#gl)" clip-path="url(#c0)">building things from scratch to see how they work</text>
-<rect y="25" width="12" height="26" fill="#00f0ff" opacity="0"><animate attributeName="x" values="92;92;741;741;92;92" keyTimes="0;0;0.0700;0.2200;0.2210;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.0700;0.2200;0.2210;1" dur="16s" repeatCount="indefinite"/></rect>
+<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#f4f5f7" clip-path="url(#c0)">building things from scratch to see how they work</text>
+<rect y="25" width="12" height="26" fill="#ffd400" opacity="0"><animate attributeName="x" values="92;92;741;741;92;92" keyTimes="0;0;0.0700;0.2200;0.2210;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.0700;0.2200;0.2210;1" dur="16s" repeatCount="indefinite"/></rect>
 <clipPath id="c1"><rect x="92" y="0" height="76" width="0"><animate attributeName="width" values="0;0;607;607;0;0" keyTimes="0;0.2500;0.3200;0.4700;0.4710;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#fcee0a" filter="url(#gl)" clip-path="url(#c1)">machine learning · python · cybersecurity · ai</text>
-<rect y="25" width="12" height="26" fill="#00f0ff" opacity="0"><animate attributeName="x" values="92;92;701;701;92;92" keyTimes="0;0.2500;0.3200;0.4700;0.4710;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2500;0.3200;0.4700;0.4710;1" dur="16s" repeatCount="indefinite"/></rect>
+<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#f4f5f7" clip-path="url(#c1)">machine learning · python · cybersecurity · ai</text>
+<rect y="25" width="12" height="26" fill="#ffd400" opacity="0"><animate attributeName="x" values="92;92;701;701;92;92" keyTimes="0;0.2500;0.3200;0.4700;0.4710;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2500;0.3200;0.4700;0.4710;1" dur="16s" repeatCount="indefinite"/></rect>
 <clipPath id="c2"><rect x="92" y="0" height="76" width="0"><animate attributeName="width" values="0;0;383;383;0;0" keyTimes="0;0.5000;0.5700;0.7200;0.7210;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#fcee0a" filter="url(#gl)" clip-path="url(#c2)">numpy first, frameworks later</text>
-<rect y="25" width="12" height="26" fill="#00f0ff" opacity="0"><animate attributeName="x" values="92;92;477;477;92;92" keyTimes="0;0.5000;0.5700;0.7200;0.7210;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5700;0.7200;0.7210;1" dur="16s" repeatCount="indefinite"/></rect>
+<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#f4f5f7" clip-path="url(#c2)">numpy first, frameworks later</text>
+<rect y="25" width="12" height="26" fill="#ffd400" opacity="0"><animate attributeName="x" values="92;92;477;477;92;92" keyTimes="0;0.5000;0.5700;0.7200;0.7210;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5700;0.7200;0.7210;1" dur="16s" repeatCount="indefinite"/></rect>
 <clipPath id="c3"><rect x="92" y="0" height="76" width="0"><animate attributeName="width" values="0;0;330;330;0;0" keyTimes="0;0.7500;0.8200;0.9700;0.9710;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#fcee0a" filter="url(#gl)" clip-path="url(#c3)">one new project every day</text>
-<rect y="25" width="12" height="26" fill="#00f0ff" opacity="0"><animate attributeName="x" values="92;92;424;424;92;92" keyTimes="0;0.7500;0.8200;0.9700;0.9710;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7500;0.8200;0.9700;0.9710;1" dur="16s" repeatCount="indefinite"/></rect>
+<text x="92" y="46" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="22" fill="#f4f5f7" clip-path="url(#c3)">one new project every day</text>
+<rect y="25" width="12" height="26" fill="#ffd400" opacity="0"><animate attributeName="x" values="92;92;424;424;92;92" keyTimes="0;0.7500;0.8200;0.9700;0.9710;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7500;0.8200;0.9700;0.9710;1" dur="16s" repeatCount="indefinite"/></rect>
 <rect width="880" height="76" fill="url(#sl)"/>
 </svg>
