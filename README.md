@@ -1,7 +1,3 @@
-<h1 align="center">▀▄▀▄ H I S O K A D R I P ▄▀▄▀</h1>
-
-<p align="center"><sub>♠ ♥ ♦ ♣ &nbsp; code · security · machine learning &nbsp; ♣ ♦ ♥ ♠</sub></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0030,100:5b0a91&height=140&section=header" width="100%"/>
 </p>
