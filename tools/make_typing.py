@@ -8,7 +8,7 @@ root = Path(__file__).resolve().parent.parent
 lines = [l.strip() for l in (root / "typing.txt").read_text(encoding="utf-8").splitlines() if l.strip()]
 n = len(lines)
 dur = SLOT * n
-font = "'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace"
+font = "'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Yu Gothic','Meiryo','Hiragino Sans','Noto Sans CJK JP',monospace"
 BG, PANEL, Y, C, M = "#07080a", "#14171c", "#ffd400", "#ffd400", "#ffd400"
 STEEL, TXT = "#2a2f38", "#f4f5f7"
 BAT = ("M0,-11 L3,-11 L5,-18 L6.5,-9 C12,-8 16,-12 18,-17 C30,-14 40,-6 40,4 C36,-1 30,-1 27,3 C24,-2 18,-2 15,4 "
@@ -29,7 +29,8 @@ out = [
     f'<rect x="828" y="18" width="8" height="8" fill="#d61f33"><animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/></rect>',
 ]
 for i, text in enumerate(lines):
-    w = round(len(text) * CHAR_W)
+    import unicodedata
+    w = round(sum(1.72 if unicodedata.east_asian_width(c) in 'WF' else 1 for c in text) * CHAR_W)
     s = i / n
     kt = f"0;{s:.4f};{s + 0.07 / n * 4:.4f};{s + 0.22 / n * 4:.4f};{s + 0.221 / n * 4:.4f};1"
     if i == 0:
