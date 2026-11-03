@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0030,100:5b0a91&height=140&section=header" width="100%"/>
-</p>
-
-<p align="center">
   <img src="assets/banner.svg" width="100%" alt="HisokaDrip"/>
 </p>
 
@@ -27,7 +23,3 @@
 - older stuff: [TourismAi](https://github.com/HisokaDrip/TourismAi), [The-Bridge](https://github.com/HisokaDrip/The-Bridge), [Ai-Scavenger-Hunt](https://github.com/HisokaDrip/Ai-Scavenger-Hunt), [ML-Mini-Project](https://github.com/HisokaDrip/ML-Mini-Project), [Algorithm-Lab](https://github.com/HisokaDrip/Algorithm-Lab)
 
 most of these are learning projects, not production code. if something's broken, open an issue.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b0a91,50:1a0030,100:000000&height=100&section=footer" width="100%"/>
-</p>
