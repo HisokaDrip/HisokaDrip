@@ -1,5 +1,21 @@
 # hey, i'm mazy
 
+```
+              .--.            .--.
+             / /\ \  ,/\/\,  / /\ \
+            / /  \ \/ /  \ \/ /  \ \
+           (_/    \__/ .--. \__/    \_)
+                  .-"""    """-.
+                 /   ___    ___   \
+                |   (-_-)  (-_-)   |
+                |  *   __/\__   *  |
+                 \   \  ----  /   /
+                  `-._ `----' _.-'
+                      `-.__.-'
+        ♠  ♥  ♦  ♣   - hisoka -   ♣  ♦  ♥  ♠
+        "ara ara~ this is getting interesting"
+```
+
 4th year B.Tech CSE (AI & ML) student at Pimpri Chinchwad University, Pune.
 
 i'm mostly into machine learning, python, cybersecurity and AI in general. i like building
