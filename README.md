@@ -6,27 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0030,100:5b0a91&height=140&section=header" width="100%"/>
 </p>
 
-<div align="center">
-
-```
-   ╔════════════════════════════════════════════╗
-   ║  ♠                                      ♠  ║
-   ║        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄           ║
-   ║      ▄█▀▀   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ▀▀█▄          ║
-   ║     █▀   ▄█▀▀ ▀▀▀▀▀▀▀▀▀▀ ▀▀█▄   ▀█         ║
-   ║    █▌   █▀  ◣▬▬▬◢    ◣▬▬▬◢  ▀█   ▐█        ║
-   ║    █▌   █   ◥◤  ★     ◥◤ ★   █   ▐█        ║
-   ║     █▄   ▀█▄    ╰▄▄▄╯    ▄█▀   ▄█          ║
-   ║      ▀█▄▄   ▀▀▀█▄▄▄▄▄█▀▀▀   ▄▄█▀           ║
-   ║  ♥     ▀▀▀▀█▄▄▄▄▄▄▄▄▄▄▄█▀▀▀▀      ♥        ║
-   ║                                            ║
-   ║     H I S O K A   ·   J O K E R            ║
-   ║   "the game's only fun if it's risky."     ║
-   ║  ♦                                      ♦  ║
-   ╚════════════════════════════════════════════╝
-```
-
-</div>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="HisokaDrip"/>
+</p>
 
 ## ▌ projects
 
