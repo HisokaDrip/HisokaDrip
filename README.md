@@ -3,6 +3,7 @@
 
 <p align="center"><img src="assets/h-projects.svg" width="100%" alt="projects"/></p>
 <p align="center">
+<a href="https://github.com/HisokaDrip/vigil"><img src="assets/card-vigil.svg" width="49%" alt="vigil"/></a>
 <a href="https://github.com/HisokaDrip/cfr-poker-solver"><img src="assets/card-cfr-poker-solver.svg" width="49%" alt="cfr-poker-solver"/></a>
 <a href="https://github.com/HisokaDrip/brume"><img src="assets/card-brume.svg" width="49%" alt="brume"/></a>
 <a href="https://github.com/HisokaDrip/taintline"><img src="assets/card-taintline.svg" width="49%" alt="taintline"/></a>
@@ -14,7 +15,6 @@
 <a href="https://github.com/HisokaDrip/tinyboost"><img src="assets/card-tinyboost.svg" width="49%" alt="tinyboost"/></a>
 <a href="https://github.com/HisokaDrip/neat-neuroevolution"><img src="assets/card-neat-neuroevolution.svg" width="49%" alt="neat-neuroevolution"/></a>
 <a href="https://github.com/HisokaDrip/stegora"><img src="assets/card-stegora.svg" width="49%" alt="stegora"/></a>
-<a href="https://github.com/HisokaDrip/thompson-regex-engine"><img src="assets/card-thompson-regex-engine.svg" width="49%" alt="thompson-regex-engine"/></a>
 </p>
 
 <p align="center"><img src="assets/h-stack.svg" width="100%" alt="stack"/></p>
@@ -28,6 +28,7 @@
 
 <p align="center"><img src="assets/h-other.svg" width="100%" alt="other"/></p>
 <p align="center">
+<a href="https://github.com/HisokaDrip/thompson-regex-engine"><img src="assets/card-thompson-regex-engine.svg" width="49%" alt="thompson-regex-engine"/></a>
 <a href="https://github.com/HisokaDrip/glyphnet"><img src="assets/card-glyphnet.svg" width="49%" alt="glyphnet"/></a>
 <a href="https://github.com/HisokaDrip/cdcl-sat-solver"><img src="assets/card-cdcl-sat-solver.svg" width="49%" alt="cdcl-sat-solver"/></a>
 <a href="https://github.com/HisokaDrip/siftrank"><img src="assets/card-siftrank.svg" width="49%" alt="siftrank"/></a>
