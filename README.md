@@ -3,6 +3,7 @@
 
 <p align="center"><img src="assets/h-projects.svg" width="100%" alt="projects"/></p>
 <p align="center">
+<a href="https://github.com/HisokaDrip/pddl-planner"><img src="assets/card-pddl-planner.svg" width="49%" alt="pddl-planner"/></a>
 <a href="https://github.com/HisokaDrip/skein"><img src="assets/card-skein.svg" width="49%" alt="skein"/></a>
 <a href="https://github.com/HisokaDrip/git-from-scratch"><img src="assets/card-git-from-scratch.svg" width="49%" alt="git-from-scratch"/></a>
 <a href="https://github.com/HisokaDrip/vigil"><img src="assets/card-vigil.svg" width="49%" alt="vigil"/></a>
@@ -14,7 +15,6 @@
 <a href="https://github.com/HisokaDrip/monte-carlo-localization"><img src="assets/card-monte-carlo-localization.svg" width="49%" alt="monte-carlo-localization"/></a>
 <a href="https://github.com/HisokaDrip/veritree"><img src="assets/card-veritree.svg" width="49%" alt="veritree"/></a>
 <a href="https://github.com/HisokaDrip/raft-kv-simulator"><img src="assets/card-raft-kv-simulator.svg" width="49%" alt="raft-kv-simulator"/></a>
-<a href="https://github.com/HisokaDrip/tinyboost"><img src="assets/card-tinyboost.svg" width="49%" alt="tinyboost"/></a>
 </p>
 
 <p align="center"><img src="assets/h-stack.svg" width="100%" alt="stack"/></p>
@@ -28,6 +28,7 @@
 
 <p align="center"><img src="assets/h-other.svg" width="100%" alt="other"/></p>
 <p align="center">
+<a href="https://github.com/HisokaDrip/tinyboost"><img src="assets/card-tinyboost.svg" width="49%" alt="tinyboost"/></a>
 <a href="https://github.com/HisokaDrip/neat-neuroevolution"><img src="assets/card-neat-neuroevolution.svg" width="49%" alt="neat-neuroevolution"/></a>
 <a href="https://github.com/HisokaDrip/stegora"><img src="assets/card-stegora.svg" width="49%" alt="stegora"/></a>
 <a href="https://github.com/HisokaDrip/thompson-regex-engine"><img src="assets/card-thompson-regex-engine.svg" width="49%" alt="thompson-regex-engine"/></a>
